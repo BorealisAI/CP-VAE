@@ -6,7 +6,7 @@ Paper published in ICML 2020: [arXiv](https://arxiv.org/abs/1905.11975)
 
 ### Preprocess
 
-Download the GloVe embeddings from [this link](http://nlp.stanford.edu/data/glove.840B.300d.zip) to `data\`
+Download the GloVe embeddings from [this link](http://nlp.stanford.edu/data/glove.840B.300d.zip) to `data/`. Then run:
 
 ```
 python preprocess.py --data_name <data_name>
